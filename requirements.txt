@@ -1,0 +1,8 @@
+
+To install the necessary packages for your script, you can use pip.
+Open your terminal or command prompt and run the following commands:
+
+pip install opencv-python
+pip install requests
+pip install pandas
+
